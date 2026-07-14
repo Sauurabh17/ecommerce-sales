@@ -76,12 +76,6 @@ The dashboard is built using an Ecommerce Sales dataset containing information s
 ## 📷 Dashboard Preview
 
 
-
-images/dashboard.png
-
-
-
-
 ![Dashboard Preview](images/dashboard.png)
 
 
